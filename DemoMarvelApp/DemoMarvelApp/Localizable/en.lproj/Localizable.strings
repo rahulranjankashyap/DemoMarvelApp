@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  DemoMarvelApp
+
+  Created by Rahul Ranjan Kashyap on 02/12/20.
+  Copyright © 2020 Rahul Ranjan Kashyap. All rights reserved.
+*/
+
+"MSG1" = "Add in Item List";
+"MSG2" = "Remove from Database";
+
+
